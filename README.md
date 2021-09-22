@@ -1,5 +1,6 @@
 # 30-days-of-GCP-Full-Guide-And-Resources
 <img src = "gcp.jpg">
+<img src = "gcp2.jpeg">
 <br>
 
 ## What is 30 Days of Google Cloud?
@@ -42,3 +43,25 @@ If you have completed any quest before , then do not use that account and mail ,
 5. Skill Badge: [Integrate with Machine Learning APIs](https://google.qwiklabs.com/quests/136?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
 
 6. Skill Badge: [Explore Machine Learning Models with Explainable AI](https://google.qwiklabs.com/quests/126?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
+
+## Rules for availing the prizes
+To earn prizes in the program, you need to complete either of the track!
+
+See the tracks and the prizes associated with them below. They will record your progress on a daily basis and will evaluate it at the end of the program i.e. 27th October 11:59 PM IST.
+
+You will receive more information on how to avail your Google Cloud goodies after the program ends ONLY if you are eligible for prizes.
+
+### Prize #1 - Complete any one track - Track 1 or Track 2
+
+<b>Prize #1</b> - Complete any one track - Track 1 or Track 2
+You can earn the prize* given below by completing all the labs and getting all skill badges that are part of either of the given tracks in the program syallabus i.e. <b>Cloud Engineering Track or Data Science and Machine Learning Track.</b>
+
+#### <b>Note: Only the skill badge completions after your enrolment date will be counted. Any skill badges completed before that won't be taken into account for this.</b>
+
+<br>
+
+## Prize #2: Complete both the tracks
+
+You can earn the prize* given alongside by completing all the skill badges from both the tracks <b>(Cloud Engineering Track and Data Science & Machine Learning Track)</b> that are part of the program.
+
+#### <b>Note: This prize is not in addition to the above mentioned prizes on completing individual tracks.</b>
