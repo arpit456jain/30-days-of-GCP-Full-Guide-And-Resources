@@ -59,10 +59,11 @@ You can earn the prize* given below by completing all the labs and getting all s
 #### <b>Note: Only the skill badge completions after your enrolment date will be counted. Any skill badges completed before that won't be taken into account for this.</b>
 
 ### Rewards for completing any one track
-
-<img src = "tshirt.jpg" width="45%" style="float:left;">
-<img src = "stickers.png" width="45%" >
-
+<p>
+<img src = "tshirt.jpg" width="40%" style="float:left;">
+<img src = "stickers.png" width="40%" style="float:left;">
+</p>
+  
 <br>
 
 ## Prize #2: Complete both the tracks
