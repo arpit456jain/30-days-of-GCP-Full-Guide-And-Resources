@@ -51,12 +51,17 @@ See the tracks and the prizes associated with them below. They will record your 
 
 You will receive more information on how to avail your Google Cloud goodies after the program ends ONLY if you are eligible for prizes.
 
-### Prize #1 - Complete any one track - Track 1 or Track 2
+## Prize #1 - Complete any one track - Track 1 or Track 2
 
 <b>Prize #1</b> - Complete any one track - Track 1 or Track 2
 You can earn the prize* given below by completing all the labs and getting all skill badges that are part of either of the given tracks in the program syallabus i.e. <b>Cloud Engineering Track or Data Science and Machine Learning Track.</b>
 
 #### <b>Note: Only the skill badge completions after your enrolment date will be counted. Any skill badges completed before that won't be taken into account for this.</b>
+
+### Rewards for completing any one track
+
+<img src = "tshirt.jpg" width="100%" style="float:left;">
+<img src = "stickers.png" width="100%" >
 
 <br>
 
@@ -65,3 +70,13 @@ You can earn the prize* given below by completing all the labs and getting all s
 You can earn the prize* given alongside by completing all the skill badges from both the tracks <b>(Cloud Engineering Track and Data Science & Machine Learning Track)</b> that are part of the program.
 
 #### <b>Note: This prize is not in addition to the above mentioned prizes on completing individual tracks.</b>
+
+<br> 
+
+### Rewards for completing both Tracks
+<p >
+<img src = "tshirt.jpg" width="100%"   style="float:left;">
+<img src = "stickers.png" width="100%"  style="float:left;" >
+<img src = "bottle.jpg" width="100%"  style="float:left;" >
+<img src = "bag.jpg" width="100%"  style="float:left;" >
+<p>
