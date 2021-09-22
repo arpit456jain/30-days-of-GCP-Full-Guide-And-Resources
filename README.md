@@ -60,8 +60,8 @@ You can earn the prize* given below by completing all the labs and getting all s
 
 ### Rewards for completing any one track
 
-<img src = "tshirt.jpg" width="100%" style="float:left;">
-<img src = "stickers.png" width="100%" >
+<img src = "tshirt.jpg" width="50%" style="float:left;">
+<img src = "stickers.png" width="50%" >
 
 <br>
 
@@ -75,8 +75,8 @@ You can earn the prize* given alongside by completing all the skill badges from 
 
 ### Rewards for completing both Tracks
 <p >
-<img src = "tshirt.jpg" width="100%"   style="float:left;">
-<img src = "stickers.png" width="100%"  style="float:left;" >
-<img src = "bottle.jpg" width="100%"  style="float:left;" >
-<img src = "bag.jpg" width="100%"  style="float:left;" >
+<img src = "tshirt.jpg" width="50%"   style="float:left;">
+<img src = "stickers.png" width="50%"  style="float:left;" >
+<img src = "bottle.jpg" width="50%"  style="float:left;" >
+<img src = "bag.jpg" width="50%"  style="float:left;" >
 <p>
