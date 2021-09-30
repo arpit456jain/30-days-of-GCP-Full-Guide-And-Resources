@@ -32,8 +32,8 @@ If you have completed any quest before , then do not use that account and mail ,
    - Cloud IAM: Qwik Start [Video Solution](https://www.youtube.com/watch?v=fz3va_hDjbQ&t=172s)
    - Cloud Monitoring: Qwik Start [Video Solution](https://www.youtube.com/watch?v=JK6VRQm79KM)
    - Cloud Functions: Qwik Start - Console [Video Solution](https://www.youtube.com/watch?v=sZo58_0ZOhM)
-   - Google Cloud Pub/Sub: Qwik Start - Console [Video Solution]()
-   - Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab [Video Solution]()
+   - Google Cloud Pub/Sub: Qwik Start - Console [Video Solution](https://www.youtube.com/watch?v=2Lsz9zzQ7GQ)
+   - Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab [Video Solution](https://www.youtube.com/watch?v=aLmNzIYhY6U)
 
 3. Skill Badge: [Setup and Configure a Cloud Environment in Google Cloud](https://google.qwiklabs.com/quests/119?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
 
