@@ -31,7 +31,7 @@ If you have completed any quest before , then do not use that account and mail ,
    - Cloud Storage: Qwik Start - Cloud Console [Video Solution](https://www.youtube.com/watch?v=tIJ1CABM2f0)
    - Cloud IAM: Qwik Start [Video Solution](https://www.youtube.com/watch?v=fz3va_hDjbQ&t=172s)
    - Cloud Monitoring: Qwik Start [Video Solution]()
-   - Cloud Functions: Qwik Start - Console [Video Solution]()
+   - Cloud Functions: Qwik Start - Console [Video Solution](https://www.youtube.com/watch?v=sZo58_0ZOhM)
    - Google Cloud Pub/Sub: Qwik Start - Console [Video Solution]()
    - Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab [Video Solution]()
 
