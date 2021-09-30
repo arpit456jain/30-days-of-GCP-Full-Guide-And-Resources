@@ -23,6 +23,9 @@ If you have completed any quest before , then do not use that account and mail ,
     - A Tour of Qwiklabs and Google Cloud [video solution](https://www.youtube.com/watch?v=s9NRS2D9Q6E&t=58s)
     - Creating a Virtual Machine [video solution](https://www.youtube.com/watch?v=Co34im5mgGA)
     - Getting Started with Cloud Shell and gcloud [video solution](https://www.youtube.com/watch?v=bMVBLE4dJRk&t=101s)
+    - Kubernetes Engine: Qwik Start [Video Solution](https://www.youtube.com/watch?v=Gvb2CjxbE50&t=130s)
+    - Set Up Network and HTTP Load Balancers [Video Solution](https://www.youtube.com/watch?v=TvEZlhLgoQk)
+    - Create and Manage Cloud Resources: Challenge Lab [Video Solution](https://www.youtube.com/watch?v=j8HbCVVjRQw&t=96s)
 
 2. Skill Badge: [Perform Foundational Infrastructure Tasks in Google Cloud](https://google.qwiklabs.com/quests/118)
 
