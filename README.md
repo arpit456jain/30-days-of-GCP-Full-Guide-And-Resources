@@ -36,7 +36,7 @@ If you have completed any quest before , then do not use that account and mail ,
    - Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab [Video Solution](https://www.youtube.com/watch?v=aLmNzIYhY6U)
 
 3. Skill Badge: [Setup and Configure a Cloud Environment in Google Cloud](https://google.qwiklabs.com/quests/119?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
-
+-  
 4. Skill Badge: [Deploy and Manage Cloud Environments with Google Cloud](https://google.qwiklabs.com/quests/121?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
 
 5. Skill Badge: [Build and Secure Networks in Google Cloud](https://google.qwiklabs.com/quests/128?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
