@@ -37,6 +37,11 @@ If you have completed any quest before , then do not use that account and mail ,
 
 3. Skill Badge: [Setup and Configure a Cloud Environment in Google Cloud](https://google.qwiklabs.com/quests/119?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
    - Cloud IAM: Qwik Start [Video Solution](https://www.youtube.com/watch?v=jbW70MdoeXI)  
+   - Introduction to SQL for BigQuery and Cloud SQL [Video Solution](https://www.youtube.com/watch?v=_tlxlUroWUI)
+   - Multiple VPC Networks [Video Solution](https://www.youtube.com/watch?v=noGN5wr-9DU)
+   - Cloud Monitoring: Qwik Start [Video Solution](https://www.youtube.com/watch?v=M-t_tXM-xXU)
+   - Managing Deployments Using Kubernetes Engine [Video Solution](https://www.youtube.com/watch?v=GqrnGuJEIR4)
+   - Set Up and Configure a Cloud Environment in Google Cloud: Challenge Lab [Video Solution](https://www.youtube.com/watch?v=w77Rh05vFCg&t=136s)
 4. Skill Badge: [Deploy and Manage Cloud Environments with Google Cloud](https://google.qwiklabs.com/quests/121?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
 
 5. Skill Badge: [Build and Secure Networks in Google Cloud](https://google.qwiklabs.com/quests/128?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
