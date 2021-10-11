@@ -43,6 +43,8 @@ If you have completed any quest before , then do not use that account and mail ,
    - Managing Deployments Using Kubernetes Engine [Video Solution](https://www.youtube.com/watch?v=GqrnGuJEIR4)
    - Set Up and Configure a Cloud Environment in Google Cloud: Challenge Lab [Video Solution](https://www.youtube.com/watch?v=w77Rh05vFCg&t=136s)
 4. Skill Badge: [Deploy and Manage Cloud Environments with Google Cloud](https://google.qwiklabs.com/quests/121?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
+   - Orchestrating the Cloud with Kubernetes [Video Solution](https://www.youtube.com/watch?v=PzvEp41L_WM)
+   - Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine [Video Solution](https://www.youtube.com/watch?v=aS_vSFYxc0M)
 
 5. Skill Badge: [Build and Secure Networks in Google Cloud](https://google.qwiklabs.com/quests/128?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
 
