@@ -45,6 +45,7 @@ If you have completed any quest before , then do not use that account and mail ,
 4. Skill Badge: [Deploy and Manage Cloud Environments with Google Cloud](https://google.qwiklabs.com/quests/121?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
    - Orchestrating the Cloud with Kubernetes [Video Solution](https://www.youtube.com/watch?v=PzvEp41L_WM)
    - Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine [Video Solution](https://www.youtube.com/watch?v=aS_vSFYxc0M)
+   - Multiple VPC Networks [Video solution](https://www.youtube.com/watch?v=noGN5wr-9DU&t=143s)
 
 5. Skill Badge: [Build and Secure Networks in Google Cloud](https://google.qwiklabs.com/quests/128?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
 
