@@ -50,6 +50,7 @@ If you have completed any quest before , then do not use that account and mail ,
    - Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab [Video Solution](https://www.youtube.com/watch?v=9S5hcyxoSvo)
 
 5. Skill Badge: [Build and Secure Networks in Google Cloud](https://google.qwiklabs.com/quests/128?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
+   - User Authentication: Identity-Aware Proxy [Video Solution](https://www.youtube.com/watch?v=iLiKNCXex7E)
 
 6. Skill Badge: [Deploy to Kubernetes in Google Cloud](https://google.qwiklabs.com/quests/116?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
 
