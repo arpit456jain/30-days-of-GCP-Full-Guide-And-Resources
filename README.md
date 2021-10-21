@@ -51,6 +51,7 @@ If you have completed any quest before , then do not use that account and mail ,
 
 5. Skill Badge: [Build and Secure Networks in Google Cloud](https://google.qwiklabs.com/quests/128?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
    - User Authentication: Identity-Aware Proxy [Video Solution](https://www.youtube.com/watch?v=iLiKNCXex7E)
+   - Multiple VPC Networks [Video Solution](https://www.youtube.com/watch?v=noGN5wr-9DU&t=158s)
 
 6. Skill Badge: [Deploy to Kubernetes in Google Cloud](https://google.qwiklabs.com/quests/116?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
 
