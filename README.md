@@ -105,3 +105,5 @@ You can earn the prize* given alongside by completing all the skill badges from 
 <img src = "bottle.jpg" width="45%"  style="float:left;" >
 <img src = "bag.jpg" width="45%"  style="float:left;" >
 <p>
+
+    show some love by giving star to this repo.
