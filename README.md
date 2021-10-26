@@ -63,6 +63,15 @@ If you have completed any quest before , then do not use that account and mail ,
 
 
 6. Skill Badge: [Deploy to Kubernetes in Google Cloud](https://google.qwiklabs.com/quests/116?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
+   - Introduction to Docker - [Video Solution](https://www.youtube.com/results?search_query=+Introduction+to+Docker)
+   - Kubernetes Engine: Qwik Start - [Video Solution](https://www.youtube.com/watch?v=W15XgGTfHCQ)
+   - Orchestrating the Cloud with Kubernetes - [Video Solution](https://www.youtube.com/watch?v=PzvEp41L_WM)
+   - Managing Deployments Using Kubernetes Engine - [Video Solution](https://www.youtube.com/watch?v=GqrnGuJEIR4)
+   - Continuous Delivery with Jenkins in Kubernetes Engine - [Video Solution](https://www.youtube.com/watch?v=W0C4KzDg4So)
+   - Deploy to Kubernetes in Google Cloud: Challenge Lab - [Video Solution](https://www.youtube.com/watch?v=6BoJHUxXcXk)
+
+
+
 
 ### Track 2: Data Science & Machine Learning Track
 1. Skill Badge: [Getting Started: Create and Manage Cloud Resources](https://google.qwiklabs.com/quests/120)
