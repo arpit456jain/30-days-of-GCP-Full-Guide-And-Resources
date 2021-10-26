@@ -57,6 +57,10 @@ If you have completed any quest before , then do not use that account and mail ,
    - User Authentication: Identity-Aware Proxy [Video Solution](https://www.youtube.com/watch?v=iLiKNCXex7E)
    - Multiple VPC Networks [Video Solution](https://www.youtube.com/watch?v=noGN5wr-9DU&t=158s)
    - VPC Networks - Controlling Access [Video Solution](https://www.youtube.com/watch?v=phz_iOol-wM&t=318s)
+   - HTTP Load Balancer with Cloud Armor - [Video Solution](https://www.youtube.com/watch?v=T3WnKuim_k0)
+   - Create an Internal Load Balancer -  [Video Solution](https://www.youtube.com/watch?v=MqC7cNyb6fw)
+   - Build and Secure Networks in Google Cloud: Challenge Lab - [Video Solution](https://www.youtube.com/watch?v=XX9kqgXWwow)
+
 
 6. Skill Badge: [Deploy to Kubernetes in Google Cloud](https://google.qwiklabs.com/quests/116?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
 
