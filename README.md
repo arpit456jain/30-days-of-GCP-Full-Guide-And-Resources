@@ -75,6 +75,11 @@ If you have completed any quest before , then do not use that account and mail ,
 
 ### Track 2: Data Science & Machine Learning Track
 1. Skill Badge: [Getting Started: Create and Manage Cloud Resources](https://google.qwiklabs.com/quests/120)
+   - A Tour of Google Cloud Hands-on Labs [video solution](https://youtu.be/06W2vRNWxP0)
+    - Compute Engine: Qwik Start - Windows [video solution](https://youtu.be/tZuLBxdbU6o)
+    - Getting Started with Cloud Shell and gcloud [video solution](https://youtu.be/u2jWCfBCAw0)
+    - Kubernetes Engine: Qwik Start [video solution](https://youtu.be/qXCMBPbWHN4)
+
 
 2. Skill Badge: [Perform Foundational Data, ML, and AI Tasks in Google Cloud](https://google.qwiklabs.com/quests/117?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
 
