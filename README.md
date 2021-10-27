@@ -87,6 +87,9 @@ If you have completed any quest before , then do not use that account and mail ,
 - AI Platform: Qwik Start [video solution](https://youtu.be/iyFh6mHDj_A)
 
 3. Skill Badge: [Insights from Data with BigQuery](https://google.qwiklabs.com/quests/123?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
+   - Introduction to SQL for BigQuery and Cloud SQL [video solution](https://youtu.be/_tlxlUroWUI)
+   - BigQuery: Qwik Start - Console [video solution](https://youtu.be/7rhLR1d9hCI)
+   - BigQuery: Qwik Start - Command Line [video solution](https://youtu.be/uhCa7ZJKw5Y)
 
 4. Skill Badge: [Engineer Data in Google Cloud](https://google.qwiklabs.com/quests/132)
 
