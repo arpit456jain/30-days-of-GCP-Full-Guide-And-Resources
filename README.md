@@ -84,7 +84,7 @@ If you have completed any quest before , then do not use that account and mail ,
     
 
 2. Skill Badge: [Perform Foundational Data, ML, and AI Tasks in Google Cloud](https://google.qwiklabs.com/quests/117?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
-- AI Platform: Qwik Start [video solution](https://youtu.be/iyFh6mHDj_A)
+   - AI Platform: Qwik Start [video solution](https://youtu.be/iyFh6mHDj_A)
 
 3. Skill Badge: [Insights from Data with BigQuery](https://google.qwiklabs.com/quests/123?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
    - Introduction to SQL for BigQuery and Cloud SQL [video solution](https://youtu.be/_tlxlUroWUI)
