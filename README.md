@@ -88,13 +88,29 @@ If you have completed any quest before , then do not use that account and mail ,
    - Dataprep: Qwik Start [video solution](https://youtu.be/HdqAa_rY08A)
    - Dataflow: Qwik Start - Templates [video solution](https://youtu.be/o91MieBvrrA)
    - Dataproc: Qwik Start - Console [video solution](https://youtu.be/A9kOBkUgLJ4)
+   - Dataproc: Qwik Start - Command Line  [video solution](https://www.youtube.com/watch?v=IFRv3NQqIfc)
+   - Cloud Natural Language API: Qwik Start [video solution](https://www.youtube.com/watch?v=8bjJQbWdabc)
+   - Google Cloud Speech API: Qwik Start [video solution](https://www.youtube.com/watch?v=yU0wNAT7Nug)
+   - Video Intelligence: Qwik Start [video solution](https://www.youtube.com/watch?v=S-eNkqpN3z0)
+   - Perform Foundational Data, ML, and AI Tasks in Google Cloud: Challenge Lab [video solution](https://www.youtube.com/watch?v=FTnK26oRj8g)
+   
 
 3. Skill Badge: [Insights from Data with BigQuery](https://google.qwiklabs.com/quests/123?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
    - Introduction to SQL for BigQuery and Cloud SQL [video solution](https://youtu.be/_tlxlUroWUI)
    - BigQuery: Qwik Start - Console [video solution](https://youtu.be/7rhLR1d9hCI)
    - BigQuery: Qwik Start - Command Line [video solution](https://youtu.be/uhCa7ZJKw5Y)
+   - Exploring Your Ecommerce Dataset with SQL in Google BigQuer [video solution](https://www.youtube.com/watch?v=ZJItS91AoAM)
+   - Troubleshooting Common SQL Errors with BigQuery [video solution](https://www.youtube.com/watch?v=eJuB1kGtqFA)
+   - Explore and Create Reports with Data Studio [video solution](https://www.youtube.com/watch?v=NlvAx_m0s0k)
+   - Insights from Data with BigQuery: Challenge Lab [video solution](https://www.youtube.com/watch?v=zKB5-_05y6o)
+  
+   
+
 
 4. Skill Badge: [Engineer Data in Google Cloud](https://google.qwiklabs.com/quests/132)
+  - Creating a Data Transformation Pipeline with Cloud Dataprep [video solution](https://www.youtube.com/watch?v=qFdtcnhxU4U)
+  - Building an IoT Analytics Pipeline on Google Cloud [video solution](https://www.youtube.com/watch?v=Gn7H38NAxts)
+  - ETL Processing on Google Cloud Using Dataflow and BigQuery [video solution](https://www.youtube.com/watch?v=i3fYilNJtgM)
 
 5. Skill Badge: [Integrate with Machine Learning APIs](https://google.qwiklabs.com/quests/136?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
 
