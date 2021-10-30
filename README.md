@@ -81,9 +81,7 @@ If you have completed any quest before , then do not use that account and mail ,
 3. Skill Badge: [Insights from Data with BigQuery](https://google.qwiklabs.com/quests/123?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
 
 4. Skill Badge: [Engineer Data in Google Cloud](https://google.qwiklabs.com/quests/132)
-- Predict Visitor Purchases with a Classification Model in BQML [video solution](https://youtu.be/5fPdZkl6RMs)
-- Cloud Composer: Copying BigQuery Tables Across Different Locations [video solution](https://youtu.be/8RthEXN1l68)
-- Engineer Data in Google Cloud: Challenge Lab [video solution](https://youtu.be/DaoBMOA4zOk)
+
 
 5. Skill Badge: [Integrate with Machine Learning APIs](https://google.qwiklabs.com/quests/136?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
 - Introduction to APIs in Google [video solution](https://youtu.be/Jj1sNni1L9o)
