@@ -81,8 +81,18 @@ If you have completed any quest before , then do not use that account and mail ,
 3. Skill Badge: [Insights from Data with BigQuery](https://google.qwiklabs.com/quests/123?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
 
 4. Skill Badge: [Engineer Data in Google Cloud](https://google.qwiklabs.com/quests/132)
+- Predict Visitor Purchases with a Classification Model in BQML [video solution](https://youtu.be/5fPdZkl6RMs)
+- Cloud Composer: Copying BigQuery Tables Across Different Locations [video solution](https://youtu.be/8RthEXN1l68)
+- Engineer Data in Google Cloud: Challenge Lab [video solution](https://youtu.be/DaoBMOA4zOk)
 
 5. Skill Badge: [Integrate with Machine Learning APIs](https://google.qwiklabs.com/quests/136?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
+- Introduction to APIs in Google [video solution](https://youtu.be/Jj1sNni1L9o)
+- Extract, Analyze, and Translate Text from Images with the Cloud ML APIs[video solution](https://youtu.be/pKlU6WtXa0Q)
+- Classify Text into Categories with the Natural Language API [video solution](https://youtu.be/jmUMqUN2cSA)
+- Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API [video solution](https://youtu.be/wsLfo9Qkg3M)
+- Entity and Sentiment Analysis with the Natural Language API [video solution](https://youtu.be/aXBZo02YzW8)
+- Awwvision: Cloud Vision API from a Kubernetes Cluster [video solution](https://youtu.be/uZm_DrfFyW4)
+- Integrate with Machine Learning APIs: Challenge Lab [video solution](https://youtu.be/DVbu9-T9e-Q)
 
 6. Skill Badge: [Explore Machine Learning Models with Explainable AI](https://google.qwiklabs.com/quests/126?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
 
