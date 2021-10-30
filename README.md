@@ -112,7 +112,15 @@ If you have completed any quest before , then do not use that account and mail ,
   - Building an IoT Analytics Pipeline on Google Cloud [video solution](https://www.youtube.com/watch?v=Gn7H38NAxts)
   - ETL Processing on Google Cloud Using Dataflow and BigQuery [video solution](https://www.youtube.com/watch?v=i3fYilNJtgM)
 
+
 5. Skill Badge: [Integrate with Machine Learning APIs](https://google.qwiklabs.com/quests/136?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
+- Introduction to APIs in Google [video solution](https://youtu.be/Jj1sNni1L9o)
+- Extract, Analyze, and Translate Text from Images with the Cloud ML APIs[video solution](https://youtu.be/pKlU6WtXa0Q)
+- Classify Text into Categories with the Natural Language API [video solution](https://youtu.be/jmUMqUN2cSA)
+- Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API [video solution](https://youtu.be/wsLfo9Qkg3M)
+- Entity and Sentiment Analysis with the Natural Language API [video solution](https://youtu.be/aXBZo02YzW8)
+- Awwvision: Cloud Vision API from a Kubernetes Cluster [video solution](https://youtu.be/uZm_DrfFyW4)
+- Integrate with Machine Learning APIs: Challenge Lab [video solution](https://youtu.be/DVbu9-T9e-Q)
 
 6. Skill Badge: [Explore Machine Learning Models with Explainable AI](https://google.qwiklabs.com/quests/126?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
 
