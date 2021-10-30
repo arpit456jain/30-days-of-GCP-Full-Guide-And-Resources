@@ -123,6 +123,11 @@ If you have completed any quest before , then do not use that account and mail ,
 - Integrate with Machine Learning APIs: Challenge Lab [video solution](https://youtu.be/DVbu9-T9e-Q)
 
 6. Skill Badge: [Explore Machine Learning Models with Explainable AI](https://google.qwiklabs.com/quests/126?utm_source=google&utm_medium=lp&utm_campaign=gcpskills)
+- AI Platform: Qwik Start [video solution](https://youtu.be/iyFh6mHDj_A)
+- Using the What-If Tool with Image Recognition Models [video solution](https://youtu.be/WaaMw4mH8A8)
+- Identifying Bias in Mortgage Data using Cloud AI Platform and the What-if Tool [video solution](https://youtu.be/Lygiqb4io98)
+- Compare Cloud AI Platform Models using the What-If Tool to Identify Potential Bias [video solution](https://youtu.be/sjoAUZhScC4)
+- Explore Machine Learning Models with Explainable AI: Challenge Lab [video solution](https://youtu.be/tnLItOfqrK4)
 
 ## Rules for availing the prizes
 To earn prizes in the program, you need to complete either of the track!
